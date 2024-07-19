@@ -6,3 +6,4 @@ Driven Insights:-
 In this project, 
 we have driven that most of sale is done of Bookcases in Economy shipping mode in central Region in Quatar 3 of year 2020 .  
 
+![S N Corp PowerBI Dashboard](https://github.com/user-attachments/assets/1e87651d-432c-4ea0-9d5b-d578417aa096)
